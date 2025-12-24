@@ -39,6 +39,8 @@ The notebook prints training logs, plots train/val loss, shows predicted vs. gro
 
 ## Sample output
 
-![Demo](result/graph.png)
-![Demo](result/train.png)
 ![Demo](result/epoch.png)
+![Demo](result/train.png)
+![Demo](result/graph.png)
+
+
